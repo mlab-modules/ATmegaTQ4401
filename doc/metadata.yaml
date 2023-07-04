@@ -1,0 +1,24 @@
+description: null
+github_branch: ATmegaTQ4401A
+github_repo: ATmegaTQ4401
+github_url: https://github.com/mlab-modules/ATmegaTQ4401
+homepage: false
+images:
+- doc/img/ATmegaTQ4401A_Bot.jpg
+- doc/img/ATmegaTQ4401A_Bot_small.jpg
+- doc/img/ATmegaTQ4401A_top_small.jpg
+- doc/img/ATmegaTQ4401A_top_big.jpg
+- doc/html/ATmegaTQ4401A_Pictures/image001.jpg
+- hw/cam_doc/ATmegaTQ4401A_PCB_top_small.jpg
+- hw/cam_doc/ATmegaTQ4401A_PCB_top.jpg
+- hw/cam_doc/ATmegaTQ4401A_PCB_Bot_small.jpg
+- hw/cam_doc/ATmegaTQ4401A_PCB_Bot.jpg
+- doc/img/ATmegaTQ4401A_QRcode.png
+- doc/html/ATmegaTQ4401A_Pictures/image003.png
+- doc/html/ATmegaTQ4401A_Pictures/image004.png
+- doc/html/ATmegaTQ4401A_Pictures/image002.png
+- doc/html/ATmegaTQ4401A_Pictures/image005.png
+- doc/html/ATmegaTQ4401A_Pictures/image006.png
+mark: 50
+tags: []
+title: ATmegaTQ4401
