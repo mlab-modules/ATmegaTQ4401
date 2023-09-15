@@ -6,7 +6,7 @@
 <!--- Tags:imported: ---> 
 <!--- Ust:http://www.ust.cz/shop/product_info.php?cPath=22_23&products_id=31: ---> 
 <!--- Name:ATmegaTQ4401A: --->
-#ATmegaTQ4401A 
+# ATmegaTQ4401A 
 <!--- LongName --->
 Module for ATmega in TQFP44 package
 <!--- ELongName ---> 
@@ -18,7 +18,7 @@ Processor module for ATMEL ATmega in TQFP44 package. The module
   programming.
 <!--- ELead ---> 
 
-![LeadImg](ATmegaTQ4401A_PCB_Top_Small.jpg) 
+![LeadImg](/doc/img/ATmegaTQ4401A_top_small.jpg) 
 
 
 ​
