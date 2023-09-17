@@ -1,4 +1,6 @@
-description: null
+description: Processor module for ATMEL ATmega in TQFP44 package. The module can use
+  standard and/or clock crystals. It is equipped with RESET push button and programming
+  connector for ISP (6 PIN) and JTAG (10 PIN) programming.
 github_branch: ATmegaTQ4401A
 github_repo: ATmegaTQ4401
 github_url: https://github.com/mlab-modules/ATmegaTQ4401
