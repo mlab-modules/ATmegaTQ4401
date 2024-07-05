@@ -6,9 +6,7 @@
 <!--- Tags:imported: ---> 
 <!--- Ust:http://www.ust.cz/shop/product_info.php?cPath=22_23&products_id=31: ---> 
 <!--- Name:ATmegaTQ4401A: --->
-# ATmegaTQ4401A 
-<!--- LongName --->
-Module for ATmega in TQFP44 package
+# ATmegaTQ4401A -  ATmega MCU module in TQFP44 packages
 <!--- ELongName ---> 
 
 <!--- Lead --->
