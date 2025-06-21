@@ -6,5 +6,4 @@ eda:
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/ATmegaTQ4401
 summary: Microcontroller ATmega in TQFP44 package. The module can use standard clock
-  crystals. It is equipped with RESET push button and programming connector for ISP
-  (6 PIN) and JTAG (10 PIN) programming.
+  crystals. It is equipped with RESET push button and programming connector.
