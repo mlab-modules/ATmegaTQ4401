@@ -5,6 +5,7 @@ github_branch: ATmegaTQ4401A
 github_repo: ATmegaTQ4401
 github_url: https://github.com/mlab-modules/ATmegaTQ4401
 homepage: false
+image_title: doc/img/ATmegaTQ4401A_top_small.jpg
 images:
 - doc/html/ATmegaTQ4401A_Pictures/image001.jpg
 - doc/img/ATmegaTQ4401A_Bot_small.jpg
